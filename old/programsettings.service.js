@@ -15,5 +15,4 @@ const getThemeCode = (id) => {
 
 module.exports = {
   getThemeCode,
-
 }
